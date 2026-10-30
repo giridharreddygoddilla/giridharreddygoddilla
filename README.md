@@ -92,37 +92,11 @@ Alongside analytics, I have experience in **Machine Learning, Deep Learning, and
 ---
 
 ### 📈 GitHub Contributions
-
-
-<div align="center">
-
-<table>
-<tr>
-<td align="center" width="850">
-
-<br>
-
-<img src="https://img.shields.io/badge/GITHUB-CONTRIBUTIONS-161B22?style=for-the-badge&logo=github&logoColor=white" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=giridharreddygoddilla&show_icons=true&hide_title=true&hide_rank=true&hide_border=true&bg_color=00000000&text_color=C9D1D9&icon_color=58A6FF&include_all_commits=true" width="75%" />
-
-<br>
-
-**161 Contributions** · **27 Public Repositories**
-
-<br>
-
-<sub>Building consistently • Learning continuously • Creating with purpose</sub>
-
-<br><br>
-
-</td>
-</tr>
-</table>
-
-</div>
+ 
+ <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=giridharreddygoddilla&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=giridharreddygoddilla&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
 
 ---
 
